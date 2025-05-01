@@ -11,7 +11,7 @@ const hueVariation = 30; // Variation in hue
 const colorSaturation = 70; // Color saturation
 const colorLightness = 60; // Color lightness
 const opacity = 0.6; // Base opacity of the blobs
-const blurAmount = 5; // Amount of blur to create soft edges
+const blurAmount = 2; // Amount of blur to create soft edges
 // --- END SETTINGS ---
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
